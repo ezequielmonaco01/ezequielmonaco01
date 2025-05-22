@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando (y rompiendo cosas) desde hace algunos años.<br>📚 Actualmente estoy aprendiendo más sobre buenas prácticas, patrones de diseño y testing en React/React Native.<br>🎯 Objetivos: crecer como desarrollador, mejorar mis habilidades técnicas y aportar en proyectos que marquen la diferencia.<br>🎲 Fun fact: tengo un pato que es parte de la familia 🦆</p>
+<p align="left">✨ Programando (y rompiendo cosas) desde hace algunos años.<br>📚 Actualmente estoy aprendiendo más sobre buenas prácticas, patrones de diseño y testing en React/React Native.<br>🎯 Objetivos: crecer como desarrollador, mejorar mis habilidades técnicas y aportar las mejores soluciones para mis clientes.<br>🎲 Fun fact: tengo un pato que es parte de la familia 🦆</p>
 
 ###
 
